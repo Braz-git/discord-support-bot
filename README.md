@@ -1,4 +1,4 @@
-# Bot Fusion Support
+# Bot Support
 
 Repositório estruturado para o desenvolvimento de um bot de suporte e automação em Node.js (Discord.js v14), focado em atendimento operacional, segurança e organização de logs.
 
